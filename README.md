@@ -3,6 +3,7 @@ Real time version of a speech inversion system
 
 Run the code speech_inversion_rt.py
 The code reads audio from a micophone connected to your computer and plots the waveform, along with 3 tract variables in real time
+The code also saves the recorded audio as a wav file and the estimated TVs as a numpy file
 The 3 tract variables are Lip Aperture, Tongue Body Constriction Degree, and Tongue Tip Constriction Degree
 
 # Important Notes
